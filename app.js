@@ -11,3 +11,5 @@ const container = document.querySelector('.navbar_container');
 container.addEventListener('click', () => {
   container.innerHTML = '';
 })
+
+console.log(container);
